@@ -1,7 +1,11 @@
 [package]
-name = "tree_multi_set"
+name = "tree_multiset"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/ocha98/RsTreeMultiSet"
+license = "CC0-1.0"
+readme = "README.md"
+description = "A tree-based multiset for Rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
