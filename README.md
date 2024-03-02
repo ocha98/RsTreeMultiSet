@@ -1,3 +1,6 @@
+[![docs.rs](https://img.shields.io/docsrs/tree_multiset)](https://docs.rs/tree_multiset/latest/tree_multiset/)
+[![Crates.io Version](https://img.shields.io/crates/v/tree_multiset)](https://crates.io/crates/tree_multiset)
+
 ## What
 TreeMultiSet is an implementation of a multiset that allows duplicate elements. This data structure maintains a sorted state as elements are added, and supports iterators and range queries, offering more flexibility in operations.
 
